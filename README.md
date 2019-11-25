@@ -134,7 +134,7 @@ Ashley Heady - History
 
 <font size = "+2"><center><b>Our Awards</b></center></font>
 
-<hr color = "blue">
+<hr color = "green">
 
 <ul>
 
